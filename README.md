@@ -113,8 +113,8 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 ## How to run the code
-	In order to run the code, you need to copy all the .R files in the working folder and create a folder named "data" there. 
-	In the data folder you should download the data from http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
-	and extract the file from the archive (you should end up with "data/household_power_consumption.txt").
-	
-	Each of the plot R files (plot1.R, plot2.R, plot3.R and plot4.R) create each a graphic in the working directory (plot1.png, plot2.png, plot3.png and plot4.png).
+In order to run the code, you need to copy all the .R files in the working folder and create a folder named "data" there. 
+In the data folder you should download the data from http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+and extract the file from the archive (you should end up with "data/household_power_consumption.txt").
+
+Each of the plot R files (plot1.R, plot2.R, plot3.R and plot4.R) create each a graphic in the working directory (plot1.png, plot2.png, plot3.png and plot4.png).
